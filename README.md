@@ -4,8 +4,8 @@
 
 ## Soy estudiante de Ingenieria de Sistemas.  
 
-- 👨‍💻 Actualmente estoy trabajando en tecnologías de desarrollo web como stack mern.
-- 📚 Actualmente estoy aprendiendo sobre el stack mern y Analisis de Datos 😅.
+- 👨‍💻 Actualmente estoy trabajando en tecnologías de desarrollo web como React.
+- 📚 Actualmente estoy aprendiendo sobre el Stack MERN y Analisis de Datos 😅.
 - 💪🏼 Objetivos de futuro: Aprender más tecnologías - Nunca dejar de crear nuevas ideas.
 - ⚡ Dato curioso: Me encanta el gym💪🏼.
 
@@ -49,19 +49,4 @@
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-<br/>
-
----
-
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
   
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
